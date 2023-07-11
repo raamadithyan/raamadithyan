@@ -1,3 +1,5 @@
+ <base target="_blank">
+
 <h1 align="center">Hi 👋, I'm Raam Adithyan</h1>
 <h3 align="center">Frontend developer</h3>
 
