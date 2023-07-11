@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://raamadithyan.vercel.app/](https://raamadithyan.vercel.app/)
 
-- 💬 Ask me about **Javascript,React and Node**
+- 💬 Ask me about **Javascript, React and Node**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
