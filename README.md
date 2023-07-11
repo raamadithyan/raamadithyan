@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://raamadithyan.vercel.app/](https://raamadithyan.vercel.app/) 
+- 👨‍💻  Checkout my [Portfolio site](https://raamadithyan.vercel.app/) 
 
 - 💬 Ask me about **Javascript, React and Node**
 
