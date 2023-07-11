@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://raamadithyan.vercel.app/](https://raamadithyan.vercel.app/) <a href="http://example.com/" target="_blank">example</a>
+- 👨‍💻 All of my projects are available at [https://raamadithyan.vercel.app/](https://raamadithyan.vercel.app/) <a href="https://raamadithyan.vercel.app/" target="_blank">https://raamadithyan.vercel.app/</a>
 
 - 💬 Ask me about **Javascript, React and Node**
 
