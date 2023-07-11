@@ -3,9 +3,9 @@
 <h3 align="center">Frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raamadithyan&label=Profile%20views&color=0e75b6&style=flat" alt="raamadithyan" /> </p>
-  <p align="center"> ⭐Checkout my <a href="https://raamadithyan.vercel.app/" >Portfolio site </a></p>
-  <p align="center"> 💬 Ask me about **Javascript, React and Node**</p>
-  <p align="center"> 🌱 I’m currently learning **React Native**</p>
+  <p align="center"> ⭐Checkout my <a target="_blank" href="https://raamadithyan.vercel.app/" >Portfolio site </a></p>
+  <p align="center"> 💬 Ask me about <b>Javascript, React and Node</b></p>
+  <p align="center"> 🌱 I’m currently learning <b>React Native</b></p>
   
 
 <h3 align="left">Connect with me:</h3>
