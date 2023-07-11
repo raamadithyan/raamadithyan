@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raamadithyan&label=Profile%20views&color=0e75b6&style=flat" alt="raamadithyan" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+<p align="center"> 🌱 I’m currently learning **React Native**</p>
 
 - 👨‍💻  Checkout my [Portfolio site](https://raamadithyan.vercel.app/) 
 
