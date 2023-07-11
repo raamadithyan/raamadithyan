@@ -1,4 +1,3 @@
- <base target="_blank">
 
 <h1 align="center">Hi 👋, I'm Raam Adithyan</h1>
 <h3 align="center">Frontend developer</h3>
@@ -7,7 +6,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://raamadithyan.vercel.app/](https://raamadithyan.vercel.app/) <a href="https://raamadithyan.vercel.app/" base target="_blank">https://raamadithyan.vercel.app/</a>
+- 👨‍💻 All of my projects are available at [https://raamadithyan.vercel.app/](https://raamadithyan.vercel.app/) 
 
 - 💬 Ask me about **Javascript, React and Node**
 
